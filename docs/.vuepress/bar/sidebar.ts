@@ -1,9 +1,9 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const sidebarImport: SidebarConfig = {
-  '/fieldnorm/': [
+  '/Handvat/': [
     {
-      text: 'Fieldnorm',
+      text: 'IVDR Taskforce Handvat',
       children: [
         '/docs/README.md',
         '/docs/Scope en Afbakening.md',
