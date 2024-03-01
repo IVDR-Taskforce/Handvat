@@ -1,0 +1,13 @@
+# Referentielijst
+
+- Bank PC, Jacobs LH, van den Berg SA, van Deutekom HW, Hamann D, Molenkamp R, et al. The end of the laboratory developed test as we know it? Recommendations from a national multidisciplinary taskforce of laboratory specialists on the interpretation of the IVDR and its complications. Clin Chem Lab Med 2020;59:491–7.
+European Parliament and Council Regulation (EU) 2017/746 of 5 April 2017 on in vitro diagnostic medical devices: Official Journal of the European Union; 2017, vol 117:176–332 pp. Available from: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02017R0746-20230320
+- Jacobs L, Ruivenkamp C, Bank P, van Deutekom H, Hamann D, Molenkamp R, et al. Handvat gebruik lab-developed tests zoals beschreven in VERORDENING (EU) 2017/746 van 5 april 2017 betreffende medische hulpmiddelen voor in-vitrodiagnostiek. Available from: https://pathology.nl/wp-content/uploads/2020/07/Handvat_gebruik_LDT_IVDR_taskforce_vs1.0.pdf
+Medical Device Coordination Group: MDCG 2019-11: Guidance on Qualification and Classification
+of Software in Regulation (EU) 2017/745 – MDR and Regulation (EU) 2017/746 – IVDR. Available from: https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2019_11_guidance_qualification_classification_software_en_0.pdf
+- Medical Device Coordination Group: Infographic – Is your software a Medical device? Available from: https://health.ec.europa.eu/system/files/2021-03/md_mdcg_2021_mdsw_en_0.pdf [March 2021]
+- Medical Device Coordination Group: MDCG 2020-1: Guidance on Clinical Evaluation (MDR) / Performance Evaluation (IVDR) of Medical Device Software. Available from: https://health.ec.europa.eu/system/files/2020-9/md_mdcg_2020_1_guidance_clinic_eva_md_software_en_0.pdf [March 2020]
+- Medical Device Coordination Group MDCG 2020-16 Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746 md_mdcg_2020_guidance_classification_ivd-md_en.pdf (europa.eu)
+- Medical Device Coordination Group. MDCG 2022-6 Guidance on significant changes regarding the transitional provision under Article 110(3) of the IVDR. Available from: https://health.ec.europa.eu/system/files/2022-05/mdcg_2022-6.pdf [May 2022]
+- Medical Device Coordination Group. MDCG 2023-1 Guidance on the health institution exemption under article 5 (5) of the Regulation (EU) 2017/745 and Regulation (EU) 2017/746. Available from: https://health. ec.europa.eu/system/files/2023-01/mdcg_2023-1_en.pdf [12 Jan 2023].
+- Van Deutekom HWM, Haitjema S. Recommendations for IVDR compliant in-house software development in clinical practice: a how-to paper with three use cases. Clin Chem Lab Med 2022;60: 982–8.
