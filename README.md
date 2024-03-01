@@ -1,11 +1,11 @@
 ---
 home: true
 title: Home
-heroImage: /img/cluster.png
+heroImage: 
 actions:
-  - text: Go to the fieldnorm
-    link: /fieldnorm/
-    type: secondary
-footer: Copyright © 2023-present VKGL-Kwaliteit | <a href="https://www.flaticon.com" title="icons">Icons created by Flaticon</a>
+  - text: xx
+    link: xx
+    type: xx
+footer: Copyright © 2022-present IVDR Taskforce</a>
 footerHtml: true
 ---
